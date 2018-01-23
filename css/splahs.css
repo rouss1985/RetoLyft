@@ -1,0 +1,11 @@
+body{
+  background: linear-gradient(to bottom right, #cc00cc 1%, #ff99cc 94%);
+}
+.logo1{
+    width: 70%;
+    height: 40%;
+    padding-top: 43%;
+}
+.center{
+  text-align: center;
+}

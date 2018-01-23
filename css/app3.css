@@ -1,0 +1,8 @@
+.center{
+  text-align: center;
+}
+.button.success {
+    background-color: #fefefe;
+    color: #c60f13;
+    font-size: 30px;
+}
